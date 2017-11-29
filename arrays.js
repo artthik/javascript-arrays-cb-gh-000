@@ -38,6 +38,6 @@ function removeElementFromEndOfArray(array){
 }
 
 function removeElementFromBeginningOfArray(array){
-  array.splice(0,0);
+  array.shift();
   return array;
 }
