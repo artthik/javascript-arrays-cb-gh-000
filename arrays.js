@@ -8,12 +8,12 @@ function addElementToEndOfArray(array, element){
   return [...array, element];
 }
 
-function destructivelyAddElementToBeginningOfArray(array){
-
+function destructivelyAddElementToBeginningOfArray(array, element){
+  
 }
 
 function destructivelyRemoveElementFromEndOfArray(array){
-
+  
 }
 
 function accessElementInArray(array, index){
@@ -21,5 +21,5 @@ function accessElementInArray(array, index){
 }
 
 function removeElementFromEndOfArray(array){
-
+  
 }
