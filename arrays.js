@@ -20,12 +20,10 @@ function destructivelyAddElementToEndOfArray(array, element){
 
 function destructivelyRemoveElementFromBeginningOfArray(array){
 
-  return array.slice(1);
 }
 
 function destructivelyRemoveElementFromEndOfArray(array){
-  array.pop();
-  return array;
+
 }
 
 function accessElementInArray(array, index){
@@ -33,6 +31,5 @@ function accessElementInArray(array, index){
 }
 
 function removeElementFromEndOfArray(array){
-  array = array.slice(-1);
-  return array;
+
 }
