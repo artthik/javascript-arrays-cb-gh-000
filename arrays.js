@@ -33,7 +33,8 @@ function accessElementInArray(array, index){
 }
 
 function removeElementFromEndOfArray(array){
-  return array.slice(-1);
+  var temp = array.slice(-1);
+  return temP,
 }
 
 function removeElementFromBeginningOfArray(array){
