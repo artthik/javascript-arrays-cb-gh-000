@@ -32,7 +32,7 @@ function accessElementInArray(array, index){
 }
 
 function removeElementFromEndOfArray(array){
-  return 0;
+  return array.pop();
 }
 
 function removeElementFromBeginningOfArray(array){
