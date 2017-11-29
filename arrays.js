@@ -21,5 +21,5 @@ function accessElementInArray(array, index){
 }
 
 function removeElementFromEndOfArray(array){
-  array.push();
+  array.pop();
 }
